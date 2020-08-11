@@ -1,0 +1,77 @@
+body{
+	background-color: #ccc;
+	color: #222;
+	font-family: Aerial;
+}
+.respo{
+	color: purple;
+	text-align: center;
+	font-style: 1.0vw;
+}
+.cont{
+	max-width: 1000px;
+	max-height: 200px;
+	margin:0 auto;
+	background-color: white;
+}
+.cont h2{
+	font-size: 10vw;
+}
+.my-panel{
+	width: 33.33%;
+	float: left;
+	overflow: right;
+}
+.one{
+	background-color: cyan;
+	min-height: 100px;
+	padding: 20px;
+	display: flex 1;
+	float: right;
+	font-style: 1.0vw;
+}
+.two{
+	background-color: pink;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+.three{
+	background-color: purple;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+.four{
+	background-color: orange;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+.five{
+	background-color: hotpink;
+	min-height: 100px;
+	/*padding: 20px;*/
+	padding: 2.5px;
+	font-style: 1.0vw;
+}
+.six{
+	background-color:maroon;
+	min-height: 100px;
+	/*padding: 20px;*/
+	padding: 2.5%;
+	font-style: 1.0vw;
+}
+.seven{
+	background-color: grey;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0;
+}
+.eight{
+	background-color:cyan;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+  
