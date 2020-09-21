@@ -23,7 +23,7 @@
 }
 
 .nice {
-	color:#000; 
+	color:grey; 
 }
 
 h1{
@@ -49,10 +49,12 @@ margin: 30px auto 0 auto;
 
 h3 {
 background-color: #F7CA18;
-padding-bottom: 50px;
+padding-bottom: 30px;
 text-align:left;
-font-size: 35px;
-
+font-size: 30px;
+font-weight: 30px;
+padding-top: 20px;
+padding-left: 20px;
 }
 
 .conta{
@@ -62,7 +64,7 @@ font-size: 35px;
 	text-align: center;
 	background-color: #fff;
 	text-decoration: 
-	color: #000;
+	color: grey;
 	height: 400px;
 	padding-top: 0px;
 
@@ -80,16 +82,16 @@ font-size: 35px;
 .hobby{
 	
 justify-content: center;
-min-height: 250px;
-min-width: 530px;
+min-height: 130px;
+min-width: 500px;
 background-color: #fff;
-padding-bottom: 200px;
-margin-left: 120px;
-margin-right: 650px;
+margin-left: 125px;
+margin-right: 700px;
+
 
 }
 ul{
-	color: #000;
+	color: grey;
 	font-size: 20px;
 }
 
@@ -100,81 +102,74 @@ color: #101624;
 font-size: 30px;
 background-color: #F7CA18;
 padding: 20px;
+margin-top: 40px;
 
 }
 
 .goal{
 justify-content: center;
-min-height: 250px;
-min-width: 530px;
+min-height: 180px;
+min-width: 500px;
 background-color: #fff;
-padding-bottom: 130px;
-margin-left: 690px;
+margin-left: 720px;
 margin-right: 300px;
-margin-top: -630px;
-margin-bottom: 300px;
+margin-top: -530px;
 	
-
 }
 
-table{
-  border:1px solid#fff;
+table {
+  font-family: arial, sans-serif;
   border-collapse: collapse;
-  width:100%;
-  font-family:arial,san-serif;
-  text-align:left;
-  margin: auto;
+  width: 82%;
+  padding-top: -200px;
+  background-color:white;
+  column-width: 20px;
+  margin-top: 40px;
+  margin-bottom: 100px;
+  margin-left: 120px;
+
 }
-td,th{
-  padding:8px;
-  border: 1px solid grey; 
+
+td, th {
+  border: 1px solid #dddddd;
   text-align: left;
+  padding: 10px;
+ 
 
 }
-tr{
-  border-bottom:1px solid #fff;
-}
-th{
-  background-color:#F7CA18;
-  color:#fff;
-  padding-bottom: 40px;
-  text-align:left;
-  font-size: 35px;
+
+th {
+background-color:#F7CA18;
+border:none;
+font-size: 20px;
+color: black;
 
 }
+
 td{
-  border-right:1px solid #fff;
-}
-tr:nth-child(even){
-  background-color:#fff;
-}
-tr:nth-child(odd){
-  background-color:#fff;
+font-size: 20px;
+margin-left: 90px;
+width: 480px;
+color: grey;
 }
 
-.students{
-padding-top: 0px;
-width: 1100px;
-min-height: 450px;
-background-color: #fff;
-margin: 30px auto 0 auto;
-margin-top: -270px;
+tr th{
+color: #344457;
 
 }
 
 .footer {
 	background-color: #354457;
 	color:#fff;
-	padding-top: -50px;
-	padding-bottom: 100px;
-	margin-bottom: 50px;
+	padding-bottom: 80px;
+	margin-bottom: 20px;
+	margin-top: -60px;
 
 }
 
 .new {
 	color:#fff; 
 	padding-left: 120px;
-
 
 }
 
