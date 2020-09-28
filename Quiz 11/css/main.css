@@ -11,6 +11,7 @@
 	text-align: center;
 	padding-top: 80px;
 	padding-bottom: 50px;
+	padding-left: 0px;
 
 }
 .anita{
@@ -24,10 +25,17 @@
 
 .nice {
 	color:grey; 
+	font-size: 15px;
 }
 
 h1{
-	font-size:50px;
+	font-size:40px;
+	font-weight: bold;
+}
+
+h2{
+	font-size:20px;
+	font-weight: bold;
 }
 
 body{
@@ -48,11 +56,11 @@ margin: 30px auto 0 auto;
 }
 
 h3 {
-background-color: #F7CA18;
+background-color: #ffd012;
 padding-bottom: 30px;
 text-align:left;
 font-size: 30px;
-font-weight: 30px;
+font-weight: bold;
 padding-top: 20px;
 padding-left: 20px;
 }
@@ -83,16 +91,16 @@ padding-left: 20px;
 	
 justify-content: center;
 min-height: 130px;
-min-width: 500px;
+min-width: 450px;
 background-color: #fff;
 margin-left: 125px;
 margin-right: 700px;
 
-
 }
+
 ul{
 	color: grey;
-	font-size: 20px;
+	font-size: 15px;
 }
 
 .quinter{
@@ -100,7 +108,8 @@ margin-left: -1px;
 margin-right: -1px;
 color: #101624;
 font-size: 30px;
-background-color: #F7CA18;
+font-weight: bold;
+background-color: #ffd012;
 padding: 20px;
 margin-top: 40px;
 
@@ -113,7 +122,7 @@ min-width: 500px;
 background-color: #fff;
 margin-left: 720px;
 margin-right: 300px;
-margin-top: -530px;
+margin-top: -340px;
 	
 }
 
@@ -126,7 +135,8 @@ table {
   column-width: 20px;
   margin-top: 40px;
   margin-bottom: 100px;
-  margin-left: 120px;
+  margin-left:
+   120px;
 
 }
 
@@ -139,7 +149,7 @@ td, th {
 }
 
 th {
-background-color:#F7CA18;
+background-color:#ffd012;
 border:none;
 font-size: 20px;
 color: black;
@@ -147,7 +157,7 @@ color: black;
 }
 
 td{
-font-size: 20px;
+font-size: 15px;
 margin-left: 90px;
 width: 480px;
 color: grey;
@@ -174,11 +184,12 @@ color: #344457;
 }
 
 .me {
-	color:#F7CA18; 
+	color:#ffd012; 
 	padding-left: 120px;
 
 }
-h4{
+h6{
 	padding-top: 40px;
+	font-weight: bold;
 	padding-left: 120px;
 }
